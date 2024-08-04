@@ -69,17 +69,7 @@ include('../inc/topbar.php');
 
                 </div>
                 <section class="footer pt-0 mt-auto bg-dark" style="z-index:1000">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="text-center footer-alt my-1">
-                                    <p class="f-15">
-                                        <?php include('../inc/footer2.php'); ?>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </section>
             </div>
             <div class="form-holder" style="height: 100%;overflow-y: auto; max-height:unset;">
